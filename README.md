@@ -2,7 +2,8 @@
 
 I used [NativeWind](https://www.nativewind.dev/v4/getting-started/expo-router) for the styling.
 
-
+### Tutorial How-to Guide
+[Coming Soon]()
 ### Demo
 First, you need to install the [Expo Go](https://expo.dev/client) application to view the application.
 
