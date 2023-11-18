@@ -5,6 +5,7 @@ I used [NativeWind](https://www.nativewind.dev/v4/getting-started/expo-router) f
 
 ### Demo
 First, you need to install the [Expo Go](https://expo.dev/client) application to view the application.
+
 **Ensure you copy the links into the app URL field.**
 
 **Android:** `exp://u.expo.dev/update/3be31284-3908-42e5-ad3e-23bf4823278d`
