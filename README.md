@@ -3,7 +3,7 @@
 I used [NativeWind](https://www.nativewind.dev/v4/getting-started/expo-router) for the styling.
 
 ### Tutorial How-to Guide
-[Coming Soon]()
+[Tutorial on DEV Community](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
 ### Demo
 First, you need to install the [Expo Go](https://expo.dev/client) application to view the application.
 
